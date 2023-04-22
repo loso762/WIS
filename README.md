@@ -24,6 +24,7 @@ Javascript, Jquery, html, sass <br><br><br>
 
 <br>
 
-## 🔎 [정보 설계 및 기능 설명 & 개발 이슈](https://www.canva.com/design/DAFW2Uwh4w8/CftOOltGhy0hN7xlsnAKxA/view?utm_content=DAFW2Uwh4w8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink#4
+## 🔎 정보 설계 및 기능 설명 & 개발 이슈
+[PPT 링크](https://www.canva.com/design/DAFW2Uwh4w8/CftOOltGhy0hN7xlsnAKxA/view?utm_content=DAFW2Uwh4w8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink#4
 )
 
