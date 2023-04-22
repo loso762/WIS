@@ -1,4 +1,4 @@
-# [WIS](loso762.github.io/WIS/)
+# [WIS](https://tahl04.github.io/wis/)
 
 <br>
 <br>
